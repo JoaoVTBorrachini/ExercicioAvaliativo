@@ -1,0 +1,45 @@
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.csproj.AssemblyReference.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfoInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfo.cs
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.csproj.CoreCompileInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.exe
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.deps.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.runtimeconfig.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\refint\FluxoTiposExceptions.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.genruntimeconfig.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\FluxoTiposExceptions\obj\Debug\net7.0\ref\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.csproj.AssemblyReference.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfoInputs.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfo.cs
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.csproj.CoreCompileInputs.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\refint\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.pdb
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.exe
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.deps.json
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.runtimeconfig.json
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.pdb
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.genruntimeconfig.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\prog1_23\FluxoTiposExceptions\obj\Debug\net7.0\ref\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.csproj.AssemblyReference.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfoInputs.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfo.cs
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.csproj.CoreCompileInputs.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\refint\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.pdb
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\bin\Debug\net7.0\FluxoTiposExceptions.exe
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\bin\Debug\net7.0\FluxoTiposExceptions.deps.json
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\bin\Debug\net7.0\FluxoTiposExceptions.runtimeconfig.json
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\bin\Debug\net7.0\FluxoTiposExceptions.dll
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\bin\Debug\net7.0\FluxoTiposExceptions.pdb
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\FluxoTiposExceptions.genruntimeconfig.cache
+C:\Users\JbDeu\OneDrive\Área de Trabalho\Trabalho 24-04\obj\Debug\net7.0\ref\FluxoTiposExceptions.dll
